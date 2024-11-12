@@ -79,7 +79,7 @@ For example:
 
 ## Practical Tips for Using Microsoft 365's Hidden Tools 
 
-**-Start small with Loop components**: Begin by using a Loop table in Teams to track tasks or brainstorm ideas with your team. Over time, you can expand to using Loop in other apps to share content across the Microsoft 365 suite. 
+**- Start small with Loop components**: Begin by using a Loop table in Teams to track tasks or brainstorm ideas with your team. Over time, you can expand to using Loop in other apps to share content across the Microsoft 365 suite. 
 
 **- Use Cameo to enhance your next presentation**: If you have a remote meeting or presentation, experiment with Cameo to embed your video feed into key slides, making your presentation more interactive. 
 
